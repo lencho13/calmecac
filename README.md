@@ -6,9 +6,9 @@ Cada episodio es un video corto. Cuando lo que se cuenta se puede repetir, el ep
 
 ## Episodios
 
-| # | Episodio | Receta |
-|---|---|---|
-| 01 | Usé a Claude como entrenador con los datos de mi pulsera | [receta](episodios/01-claude-entrenador/receta.md) |
+| # | Episodio | Video | Receta |
+|---|---|---|---|
+| 01 | Usé a Claude como entrenador con los datos de mi pulsera | [YouTube](https://youtu.be/-vsg78zXtDM) · [Short](https://youtu.be/3e2JRLFlZEI) · [X](https://x.com/AldapeFlorencio/status/2106914949994004725) | [receta](episodios/01-claude-entrenador/receta.md) |
 
 ## Cómo usar una receta
 
