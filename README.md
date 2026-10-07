@@ -21,3 +21,13 @@ Las recetas no sustituyen a un profesional. Si el tema es salud, dinero o algo l
 ## Licencia
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es): puedes usar, cambiar y compartir el contenido citando la fuente.
+
+## English
+
+Calmecac is a public log of what I build with artificial intelligence. Each episode is a short video, made in Spanish, with English audio and subtitles on YouTube. When what it shows can be repeated, the episode comes with a **recipe**: a plain-text file with instructions to do it with your own Claude.
+
+| # | Episode | Video | Recipe |
+|---|---|---|---|
+| 01 | I used Claude as my coach with my fitness band data | [YouTube](https://youtu.be/-vsg78zXtDM) · [Short](https://youtu.be/3e2JRLFlZEI) | [recipe](episodios/01-claude-entrenador/recipe.md) |
+
+Recipes don't replace a professional. For health, money or legal matters, talk to the right person. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
