@@ -2,6 +2,7 @@
 
 > Archivo para usar con Claude. Antes de usarlo, léelo completo: son instrucciones en texto plano, sin nada oculto.
 > Episodio: *Usé a Claude como entrenador con los datos de mi pulsera · Calmecac 01*.
+> English version: [recipe.md](recipe.md).
 > Esto no es consejo médico. Si tienes alguna condición de salud, consulta a tu médico antes de empezar a entrenar.
 
 ## Qué hace
